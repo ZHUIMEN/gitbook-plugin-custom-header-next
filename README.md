@@ -1,10 +1,5 @@
 # gitbook-plugin-custom-header-next
 
-## Installation
-```
-npm install gitbook-plugin-custom-header-next
-gitbook install gitbook-plugin-custom-header-next
-```
 
 ## Configuration
 
